@@ -10,7 +10,7 @@
 🌐 **Live Dashboard:** https://firewatch-india-uttarakhand.streamlit.app  
 💻 **GitHub Repository:** https://github.com/Gitamir-26/FireWatch_India
 
-▶️ **Demo Video Link:**  
+▶️ **Demo Video Link:** https://drive.google.com/file/d/1LcsG_dhdnlhk1GXHmX6lT5nTQJorwxpx/view?usp=drive_link  
 
 ---
 
